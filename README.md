@@ -1,9 +1,7 @@
-<h1 align="center">👋 Hello, I'm Michael R. also known as MichaelR-Dev!</h1>
+<h1 align="center">👋 Hello, I'm Michael R. also known as MichaelR-Dev!😊</h1>
 <div align="center">
     <a href="https://www.linkedin.com/in/michaelr-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
-<br>Please reach out! 😊
-
 [Looking to Contract me? Find me on Upwork!](https://www.upwork.com/freelancers/michaelr78)
 
 ***p.s. I'm always looking for work and respond within 24hrs!***
