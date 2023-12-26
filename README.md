@@ -6,7 +6,6 @@
 <div align="center">
     <a href="https://www.upwork.com/freelancers/michaelr78" target="_blank">Click to see my latest contract work!</a><p italicized>p.s. I'm always looking for work and respond within 24hrs</p>
 </div>
-<br>
 <h3 align="center">💻Fav Tech Stack💻</h3>
 <br>
 
@@ -35,8 +34,6 @@
  🟣 <a href="https://github.com/MichaelR-Dev/learns-fullstack">Full Stack Portfolio</a> 🟠 <a href="https://github.com/MichaelR-Dev/learns-mobile">Mobile Portfolio</a> <br>
  🔴 <a href="https://github.com/MichaelR-Dev/learns-backend">Backend Portfolio</a> 🔵 <a href="https://github.com/MichaelR-Dev/learns-frontend">Frontend Portfolio</a> ⚪ <a href="https://github.com/MichaelR-Dev/portfolio-university">Academic Portfolio</a>
 </div>
-<br>
-<br>
 
 <h3 align="center">📊Quick Stats📊</h3>
 <div style="display: flex; width: 100%; flex-direction: column; justify-content: center; align-items: center;">
