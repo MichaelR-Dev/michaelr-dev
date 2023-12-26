@@ -38,11 +38,14 @@ Description of Repo 3.
 <h3 align="center">🚀 Quick Access</h3>
 <br>
 
-- [Academic Portfolio](https://github.com/MichaelR-Dev/portfolio-university)
-- [Full Stack Portfolio](https://github.com/MichaelR-Dev/learns-fullstack)
-- [Mobile Portfolio](https://github.com/MichaelR-Dev/learns-mobile)
-- [Backend Portfolio](https://github.com/MichaelR-Dev/learns-backend)
-- [Frontend Portfolio](https://github.com/MichaelR-Dev/learns-frontend)
+<div align="center">
+    <a href="https://github.com/MichaelR-Dev/portfolio-university">Academic Portfolio</a>
+    <a href="https://github.com/MichaelR-Dev/learns-fullstack">Full Stack Portfolio</a>
+    <a href="https://github.com/MichaelR-Dev/learns-mobile">Mobile Portfolio</a>
+    <a href="https://github.com/MichaelR-Dev/learns-backend">Backend Portfolio</a>
+    <a href="https://github.com/MichaelR-Dev/learns-frontend">Frontend Portfolio</a>
+</div>
+
 
 <div style="display: flex; width: 100%; flex-direction: column; justify-content: center;">
     <p><img align="left" style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelr-dev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="michaelr-dev" /></p>
