@@ -1,4 +1,6 @@
 <h1 align="center">👋 Hello, I'm Michael R. also known as MichaelR-Dev!</h1>
+Please reach out! 😊
+<a href="https://www.linkedin.com/in/michaelr-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 [Looking to Contract me? Find me on Upwork!](https://www.upwork.com/freelancers/michaelr78)
 
@@ -40,11 +42,6 @@ Description of Repo 3.
 - [Mobile Portfolio](https://github.com/MichaelR-Dev/learns-mobile)
 - [Backend Portfolio](https://github.com/MichaelR-Dev/learns-backend)
 - [Frontend Portfolio](https://github.com/MichaelR-Dev/learns-frontend)
-
-<h3 align="center">📫 Let's Connect</h3>
-<a href="https://www.linkedin.com/in/michaelr-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<br>
-Feel free to reach out! 😊
 
 <div style="display: flex; width: 100%; flex-direction: column; justify-content: center;">
     <p><img align="left" style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelr-dev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="michaelr-dev" /></p>
