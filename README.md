@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Michael R. also known as MichaelR-Dev!</h1>
-[Contract me on Upwork!](https://www.upwork.com/freelancers/michaelr78) 
-***p.s. I'm always looking for work and respond within 24hrs!***
+<a href="https://www.upwork.com/freelancers/michaelr78" target="_blank">Looking to Contract me? Find me on Upwork!</a>
+p.s. I'm always looking for work and respond within 24hrs!
 
 Welcome to my GitHub, I'm a full-stack developer with 3+ years of experience, 5+ if we're strictly talking front-end!
 Although I have various stack experience through [freelance](https://www.upwork.com/freelancers/michaelr78),
@@ -37,7 +37,7 @@ Description of Repo 3.
 - [Frontend Portfolio](https://github.com/MichaelR-Dev/learns-frontend)
 
 <h2 align="center">📫 Let's Connect</h2>
-<a href="https://www.linkedin.com/in/michaelr-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/michaelr-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 Feel free to reach out! 😊
 
 <div style="display: flex; width: 100%; flex-direction: column; justify-content: center;">
