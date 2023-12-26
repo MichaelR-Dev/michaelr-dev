@@ -1,7 +1,9 @@
 <h1 align="center">👋 Hello, I'm Michael R. also known as MichaelR-Dev!</h1>
-<div style="display: flex; width: 100%; flex-direction: row; justify-content: center; align-content: center;">
-  <p><img align="left" style="margin-left: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelr-dev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="michaelr-dev" /></p>
-  <div> 
+<div style="display: flex; width: 100%; flex-direction: row;">
+  <div style="width: 100%;">
+      <p><img align="left" style="margin-left: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelr-dev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="michaelr-dev" /></p>
+  </div>
+  <div style="width: 100%;">
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelr-dev&show_icons=true&locale=en&theme=onedark" alt="michaelr-dev" /></p>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelr-dev&theme=onedark" alt="michaelr-dev" /></p>
   </div>
