@@ -11,7 +11,7 @@
 </div>
 
 
-***<p style="text-align: center;">p.s. I'm always looking for work and respond within 24hrs!</p>***
+***<p align="center">p.s. I'm always looking for work and respond within 24hrs!</p>***
 <br><br>
 <h3 align="center">💻My Typical Tech Stack</h3>
 <br>
