@@ -48,9 +48,9 @@ Description of Repo 3.
 <h3 align="center">🚀Quick Access🚀</h3>
 <br>
 
-<div align="left">
- 🔵 <a href="https://github.com/MichaelR-Dev/learns-fullstack">Full Stack Portfolio</a> 🔵 <a href="https://github.com/MichaelR-Dev/learns-mobile">Mobile Portfolio</a> <br>
- 🔵 <a href="https://github.com/MichaelR-Dev/learns-backend">Backend Portfolio</a> 🔵 <a href="https://github.com/MichaelR-Dev/learns-frontend">Frontend Portfolio</a> 🔵 <a href="https://github.com/MichaelR-Dev/portfolio-university">Academic Portfolio</a>
+<div align="center">
+ 🟣 <a href="https://github.com/MichaelR-Dev/learns-fullstack">Full Stack Portfolio</a> 🟠 <a href="https://github.com/MichaelR-Dev/learns-mobile">Mobile Portfolio</a> <br>
+ 🔴 <a href="https://github.com/MichaelR-Dev/learns-backend">Backend Portfolio</a> 🔵 <a href="https://github.com/MichaelR-Dev/learns-frontend">Frontend Portfolio</a> ⚪ <a href="https://github.com/MichaelR-Dev/portfolio-university">Academic Portfolio</a>
 </div>
 <br>
 <br>
