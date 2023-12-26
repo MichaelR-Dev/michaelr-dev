@@ -1,5 +1,5 @@
 <h2 align="center" color="orange">👋 Hello, I'm Michael R. also known as MichaelR-Dev!😊</h2>
-<a align="center" href="https://www.upwork.com/freelancers/michaelr78" target="_blank">Looking to Contract me? Find me on Upwork!</a>
+<a align="center" style="font-size: smaller;" href="https://www.upwork.com/freelancers/michaelr78" target="_blank">Looking to Contract me? Find me on Upwork!</a>
 <div align="center">
     <a href="https://www.linkedin.com/in/michaelr-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
