@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Michael R. also known as MichaelR-Dev!</h1>
-[Looking to Contract Me? Find me on Upwork!](https://www.upwork.com/freelancers/michaelr78) 
+[Contract me on Upwork!](https://www.upwork.com/freelancers/michaelr78) 
 ***p.s. I'm always looking for work and respond within 24hrs!***
 
 Welcome to my GitHub, I'm a full-stack developer with 3+ years of experience, 5+ if we're strictly talking front-end!
