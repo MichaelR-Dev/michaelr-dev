@@ -37,18 +37,3 @@
  🟣 <a href="https://github.com/MichaelR-Dev/learns-fullstack">Full Stack Portfolio</a> 🟠 <a href="https://github.com/MichaelR-Dev/learns-mobile">Mobile Portfolio</a> <br>
  🔴 <a href="https://github.com/MichaelR-Dev/learns-backend">Backend Portfolio</a> 🔵 <a href="https://github.com/MichaelR-Dev/learns-frontend">Frontend Portfolio</a> ⚪ <a href="https://github.com/MichaelR-Dev/portfolio-university">Academic Portfolio</a>
 </div>
-
-
-<br>
-<br>
-
-<h3 align="center">🌟Featured Repositories🌟</h3>
-
-### [Repo 1](link-to-repo-1)
-Description of Repo 1.
-
-### [Repo 2](link-to-repo-2)
-Description of Repo 2.
-
-### [Repo 3](link-to-repo-3)
-Description of Repo 3.
