@@ -30,21 +30,6 @@
 
 </div>
 
-
-<br>
-<br>
-
-<h3 align="center">🌟Featured Repositories🌟</h3>
-
-### [Repo 1](link-to-repo-1)
-Description of Repo 1.
-
-### [Repo 2](link-to-repo-2)
-Description of Repo 2.
-
-### [Repo 3](link-to-repo-3)
-Description of Repo 3.
-
 <h3 align="center">🚀Quick Access🚀</h3>
 <br>
 
@@ -63,3 +48,18 @@ Description of Repo 3.
         <img style="width: 50%; height: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelr-dev&theme=onedark" alt="michaelr-dev"/>
     </p>
 </div>
+
+
+<br>
+<br>
+
+<h3 align="center">🌟Featured Repositories🌟</h3>
+
+### [Repo 1](link-to-repo-1)
+Description of Repo 1.
+
+### [Repo 2](link-to-repo-2)
+Description of Repo 2.
+
+### [Repo 3](link-to-repo-3)
+Description of Repo 3.
