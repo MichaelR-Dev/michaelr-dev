@@ -1,7 +1,5 @@
 <h2 align="center" color="orange">👋 Hello, I'm Michael R. also known as MichaelR-Dev!😊</h2>
-<div align="center">
-    <a align="center" href="https://www.upwork.com/freelancers/michaelr78" target="_blank">Click to see my latest contract work!</a><p align="center" italicized>p.s. I'm always looking for work and respond within 24hrs!</p>
-</div>
+<a align="center" href="https://www.upwork.com/freelancers/michaelr78" target="_blank">Click to see my latest contract work!</a><p align="center" italicized>p.s. I'm always looking for work and respond within 24hrs</p>
 <div align="center">
     <a href="https://www.linkedin.com/in/michaelr-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.upwork.com/freelancers/michaelr78" target="_blank"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/></a>
