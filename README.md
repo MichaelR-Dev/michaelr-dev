@@ -68,7 +68,5 @@ Description of Repo 3.
 
 <div style="display: flex; width: 100%; flex-direction: column; justify-content: center; align-items: center;">
     <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelr-dev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="michaelr-dev" /></p>
-    <div style="display: flex; flex-direction: row; justify-content: space-around; flex-wrap: nowrap; width: 100%;">
-        <p align="left" style="width: 40%; margin: 0; height: 80%;"><img style="width: 50%; height: 100%;" src="https://github-readme-stats.vercel.app/api?username=michaelr-dev&show_icons=true&locale=en&theme=onedark" alt="michaelr-dev" /><img style="width: 50%; height: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelr-dev&theme=onedark" alt="michaelr-dev" /></p>
-    </div>
+        <p align="left" style="width: 40%; margin: 0; height: 100%;"><img style="width: 50%; height: 100%;" src="https://github-readme-stats.vercel.app/api?username=michaelr-dev&show_icons=true&locale=en&theme=onedark" alt="michaelr-dev" /><img style="width: 50%; height: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelr-dev&theme=onedark" alt="michaelr-dev" /></p>
 </div>
