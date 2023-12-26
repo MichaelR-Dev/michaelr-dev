@@ -5,7 +5,7 @@
 Welcome to my GitHub, I'm a full-stack developer with 3+ years of experience, 5+ if we're strictly talking front-end!
 Although I have various stack experience through [freelance](https://www.upwork.com/freelancers/michaelr78),
 my typical tech stack consists of:
-
+<br>
 - [React](https://react.dev/)
 - [React Native](https://reactnative.dev/)
 - [Typescript](https://www.typescriptlang.org/)
@@ -15,7 +15,7 @@ my typical tech stack consists of:
 - [NodeJS](https://nodejs.org/en)
 - [Redux](https://redux.js.org/)
 - [Vercel](https://vercel.com/)
-
+<br>
 <h3 align="center">Feel free to explore my repositories below where you'll find featured projects and quick access links!</h3>
 <h2 align="center">🌟 Featured Repositories</h2>
 
@@ -29,7 +29,7 @@ Description of Repo 2.
 Description of Repo 3.
 
 <h2 align="center">🚀 Quick Access</h2>
-
+<br>
 - [Academic Portfolio](https://github.com/MichaelR-Dev/portfolio-university)
 - [Full Stack Portfolio](https://github.com/MichaelR-Dev/learns-fullstack)
 - [Mobile Portfolio](https://github.com/MichaelR-Dev/learns-mobile)
