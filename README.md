@@ -27,7 +27,7 @@ Description of Repo 3.
 
 - [Academic Portfolio](https://github.com/MichaelR-Dev/portfolio-university)
 - [Full Stack Portfolio](https://github.com/MichaelR-Dev/learns-fullstack)
-- [Mobile Portfolio](https://github.com/MichaelR-Dev/learns-mobile): Testing short description
+- [Mobile Portfolio](https://github.com/MichaelR-Dev/learns-mobile)
 - [Backend Portfolio](https://github.com/MichaelR-Dev/learns-backend)
 - [Frontend Portfolio](https://github.com/MichaelR-Dev/learns-frontend)
 
@@ -36,6 +36,24 @@ Description of Repo 3.
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaelr-dev&show_icons=true&theme=radical)](https://github.com/michaelr-dev)
 
 ## 📫 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/michaelr-dev/)
+
+<style>
+  .libutton {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 7px;
+    text-align: center;
+    outline: none;
+    text-decoration: none !important;
+    color: #ffffff !important;
+    width: 200px;
+    height: 32px;
+    border-radius: 16px;
+    background-color: #0A66C2;
+    font-family: "SF Pro Text", Helvetica, sans-serif;
+  }
+</style>
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=michaelr-dev" target="_blank">Follow on LinkedIn</a>
 
 Feel free to reach out! 😊
