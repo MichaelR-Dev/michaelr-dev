@@ -9,7 +9,7 @@
 
 ***p.s. I'm always looking for work and respond within 24hrs!***
 <br><br>
-My typical tech stack:
+<h3 align="center">💻My Typical Tech Stack</h3>
 <br>
 
 - [React](https://react.dev/)
