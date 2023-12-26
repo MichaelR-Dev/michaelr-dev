@@ -5,7 +5,7 @@
 ***p.s. I'm always looking for work and respond within 24hrs!***
 
 <br>
-<p align="center">Welcome to my GitHub, I'm a full-stack developer with 3+ years of experience, 5+ if we're strictly talking front-end!
+<p align="center">Welcome to my GitHub, I'm a full-stack developer with 3+ years of experience, 5+ if we're strictly talking front-end!<br>
 Although I have various stack experience through <a href="https://www.upwork.com/freelancers/michaelr78" target="_blank">freelance</a>,
 my typical tech stack consists of:</p>
 <br>
