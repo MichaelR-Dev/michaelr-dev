@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Michael R. also known as MichaelR-Dev!</h1>
-<div style="display: flex; width: 100%; flex-direction: row;">
+<div style="display: flex; width: 100%; flex-direction: row; justify-content: center;">
   <div style="width: 100%; align-content: center;">
       <p><img align="left" style="margin-left: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelr-dev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="michaelr-dev" /></p>
   </div>
