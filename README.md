@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Michael R. also known as MichaelR-Dev!</h1>
-### [Looking to Contract Me? Find me on Upwork!](https://www.upwork.com/freelancers/michaelr78) 
+[Looking to Contract Me? Find me on Upwork!](https://www.upwork.com/freelancers/michaelr78) 
 ***p.s. I'm always looking for work and respond within 24hrs!***
 
 Welcome to my GitHub, I'm a full-stack developer with 3+ years of experience, 5+ if we're strictly talking front-end!
@@ -38,11 +38,10 @@ Description of Repo 3.
 
 <h2 align="center">📫 Let's Connect</h2>
 <p align="left">
-  <a href="https://linkedin.com/in/michaelr-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michaelr-dev" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/michaelr-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="michaelr-dev" height="30" width="40" /></a>
+  <a style="display: flex; flex-direction: column; justify-content: center; padding: 7px; text-align: center; outline: none; text-decoration: none !important; color: #ffffff !important; width: 200px; height: 32px; border-radius: 16px; background-color: #0A66C2; font-family: "SF Pro Text, Helvetica, sans-serif;" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=michaelr-dev" target="_blank">Follow on LinkedIn</a>
 </p>
-
 Feel free to reach out! 😊
+
 <div style="display: flex; width: 100%; flex-direction: column; justify-content: center;">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelr-dev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="michaelr-dev" /></p>
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelr-dev&show_icons=true&locale=en&theme=onedark" alt="michaelr-dev" /></p>
