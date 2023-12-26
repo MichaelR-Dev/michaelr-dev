@@ -6,7 +6,7 @@
 
 <br>
 <p align="center">Welcome to my GitHub, I'm a full-stack developer with 3+ years of experience, 5+ if we're strictly talking front-end!
-Although I have various stack experience through [freelance](https://www.upwork.com/freelancers/michaelr78),
+Although I have various stack experience through <a href="https://www.upwork.com/freelancers/michaelr78" target="_blank">freelance</a>,
 my typical tech stack consists of:</p>
 <br>
 
