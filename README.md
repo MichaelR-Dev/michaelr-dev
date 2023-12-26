@@ -6,6 +6,7 @@ Welcome to my GitHub, I'm a full-stack developer with 3+ years of experience, 5+
 Although I have various stack experience through [freelance](https://www.upwork.com/freelancers/michaelr78),
 my typical tech stack consists of:
 <br>
+
 - [React](https://react.dev/)
 - [React Native](https://reactnative.dev/)
 - [Typescript](https://www.typescriptlang.org/)
@@ -30,6 +31,7 @@ Description of Repo 3.
 
 <h2 align="center">🚀 Quick Access</h2>
 <br>
+
 - [Academic Portfolio](https://github.com/MichaelR-Dev/portfolio-university)
 - [Full Stack Portfolio](https://github.com/MichaelR-Dev/learns-fullstack)
 - [Mobile Portfolio](https://github.com/MichaelR-Dev/learns-mobile)
