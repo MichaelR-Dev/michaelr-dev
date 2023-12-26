@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hello, I'm Michael R. also known as MichaelR-Dev!</h1>
 
 [Looking to Contract me? Find me on Upwork!](https://www.upwork.com/freelancers/michaelr78)
+***p.s. I'm always looking for work and respond within 24hrs!***
 
-p.s. I'm always looking for work and respond within 24hrs!
 <br>
-Welcome to my GitHub, I'm a full-stack developer with 3+ years of experience, 5+ if we're strictly talking front-end!
+<p align="center">Welcome to my GitHub, I'm a full-stack developer with 3+ years of experience, 5+ if we're strictly talking front-end!
 Although I have various stack experience through [freelance](https://www.upwork.com/freelancers/michaelr78),
-my typical tech stack consists of:
+my typical tech stack consists of:</p>
 <br>
 
 - [React](https://react.dev/)
@@ -19,8 +19,8 @@ my typical tech stack consists of:
 - [Redux](https://redux.js.org/)
 - [Vercel](https://vercel.com/)
 <br>
-<h3 align="center">Feel free to explore my repositories below where you'll find featured projects and quick access links!</h3>
-<h2 align="center">🌟 Featured Repositories</h2>
+<h4 align="center">Feel free to explore my repositories below where you'll find featured projects and quick access links!</h4>
+<h3 align="center">🌟 Featured Repositories</h3>
 
 ### [Repo 1](link-to-repo-1)
 Description of Repo 1.
@@ -31,7 +31,7 @@ Description of Repo 2.
 ### [Repo 3](link-to-repo-3)
 Description of Repo 3.
 
-<h2 align="center">🚀 Quick Access</h2>
+<h3 align="center">🚀 Quick Access</h3>
 <br>
 
 - [Academic Portfolio](https://github.com/MichaelR-Dev/portfolio-university)
@@ -40,7 +40,7 @@ Description of Repo 3.
 - [Backend Portfolio](https://github.com/MichaelR-Dev/learns-backend)
 - [Frontend Portfolio](https://github.com/MichaelR-Dev/learns-frontend)
 
-<h2 align="center">📫 Let's Connect</h2>
+<h3 align="center">📫 Let's Connect</h3>
 <a href="https://www.linkedin.com/in/michaelr-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br>
 Feel free to reach out! 😊
