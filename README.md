@@ -2,6 +2,11 @@
 <h3 align="center">A full-stack developer from the USA & Canada!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelr-dev&label=Profile%20views&color=0e75b6&style=flat" alt="michaelr-dev" /> </p>
 
+<h2 align="center">📈 GitHub Stats</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelr-dev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="michaelr-dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelr-dev&show_icons=true&locale=en&theme=onedark" alt="michaelr-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelr-dev&theme=onedark" alt="michaelr-dev" /></p>
+
 ### [Looking to Contract Me? Find me on Upwork!](https://www.upwork.com/freelancers/michaelr78) 
 ***p.s. I'm always looking for work and respond within 24hrs!***
 
@@ -39,18 +44,6 @@ Description of Repo 3.
 - [Mobile Portfolio](https://github.com/MichaelR-Dev/learns-mobile)
 - [Backend Portfolio](https://github.com/MichaelR-Dev/learns-backend)
 - [Frontend Portfolio](https://github.com/MichaelR-Dev/learns-frontend)
-
-<h2 align="center">📈 GitHub Stats</h2>
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaelr-dev&show_icons=true&theme=radical)](https://github.com/michaelr-dev)
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelr-dev" alt="michaelr-dev" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelr-dev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="michaelr-dev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelr-dev&show_icons=true&locale=en&theme=onedark" alt="michaelr-dev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelr-dev&theme=onedark" alt="michaelr-dev" /></p>
 
 <h2 align="center">📫 Let's Connect</h2>
 <p align="left">
