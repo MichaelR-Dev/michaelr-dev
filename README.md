@@ -39,7 +39,7 @@ Description of Repo 3.
 <h3 align="center">🚀Quick Access</h3>
 <br>
 
-<div align="center">
+<div>
     <a href="https://github.com/MichaelR-Dev/learns-fullstack">Full Stack Portfolio</a> <br><br>
     <a href="https://github.com/MichaelR-Dev/learns-mobile">Mobile Portfolio</a> <br><br>
     <a href="https://github.com/MichaelR-Dev/learns-backend">Backend Portfolio</a> <br><br>
