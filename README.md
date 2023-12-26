@@ -11,7 +11,8 @@
     <p align="center" italicized>p.s. I'm always looking for work and respond within 24hrs!</p>
 </div>
 <br><br>
-<h3 align="center">💻My Typical Tech Stack</h3>
+<h3 align="center">💻My Usual Indulgence</h3>
+<br>
 <br>
 
 <div align="center">
