@@ -6,7 +6,7 @@
 <p align="center">Welcome to my GitHub, I'm a full-stack developer with 3+ years of experience, 5+ if we're strictly talking front-end!</p>
 
 <br>
-<a align="center" href="https://www.upwork.com/freelancers/michaelr78" target="_blank">Looking to Contract me? Find me on Upwork!</a>
+<a align="center" href="https://www.upwork.com/freelancers/michaelr78" target="_blank">Click to see my latest contract work!</a>
 
 ***p.s. I'm always looking for work and respond within 24hrs!***
 <br><br>
