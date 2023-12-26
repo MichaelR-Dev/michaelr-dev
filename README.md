@@ -9,7 +9,7 @@
     <a align="center" href="https://www.upwork.com/freelancers/michaelr78" target="_blank">Click to see my latest contract work!</a>
     <p align="center" italicized>p.s. I'm always looking for work and respond within 24hrs!</p>
 </div>
-<br><br>
+<br>
 <h3 align="center">💻My Usual Indulgence</h3>
 <br>
 <br>
