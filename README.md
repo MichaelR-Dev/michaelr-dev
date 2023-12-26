@@ -8,7 +8,7 @@
 ***p.s. I'm always looking for work and respond within 24hrs!***
 
 <br>
-<p align="center">Welcome to my GitHub, I'm a full-stack developer with 3+ years of experience, 5+ if we're strictly talking front-end!<br>
+<p>Welcome to my GitHub, I'm a full-stack developer with 3+ years of experience, 5+ if we're strictly talking front-end!<br>
 Although I have various stack experience through <a href="https://www.upwork.com/freelancers/michaelr78" target="_blank">freelance</a>,
 my typical tech stack consists of:</p>
 <br>
@@ -23,7 +23,7 @@ my typical tech stack consists of:</p>
 - [Redux](https://redux.js.org/)
 - [Vercel](https://vercel.com/)
 <br>
-<h4 align="center">Feel free to explore my repositories below where you'll find featured projects and quick access links!</h4>
+<h4>Feel free to explore my repositories below where you'll find featured projects and quick access links!</h4>
 <h3 align="center">🌟 Featured Repositories</h3>
 
 ### [Repo 1](link-to-repo-1)
