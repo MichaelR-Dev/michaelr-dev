@@ -37,9 +37,7 @@ Description of Repo 3.
 - [Frontend Portfolio](https://github.com/MichaelR-Dev/learns-frontend)
 
 <h2 align="center">📫 Let's Connect</h2>
-<p align="left">
-  <a style="display: flex; flex-direction: column; justify-content: center; padding: 7px; text-align: center; outline: none; text-decoration: none !important; color: #ffffff !important; width: 200px; height: 32px; border-radius: 16px; background-color: #0A66C2; font-family: 'SF Pro Text, Helvetica, sans-serif;'" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=michaelr-dev" target="_blank">Follow on LinkedIn</a>
-</p>
+<a href="https://www.linkedin.com/in/michaelr-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 Feel free to reach out! 😊
 
 <div style="display: flex; width: 100%; flex-direction: column; justify-content: center;">
