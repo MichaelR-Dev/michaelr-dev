@@ -1,13 +1,6 @@
 <h1 align="center">👋 Hello, I'm Michael R. also known as MichaelR-Dev!</h1>
-<div style="display: flex; width: 100%; flex-direction: column; justify-content: center;">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelr-dev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="michaelr-dev" /></p>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelr-dev&show_icons=true&locale=en&theme=onedark" alt="michaelr-dev" /></p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelr-dev&theme=onedark" alt="michaelr-dev" /></p>
-</div>
-
 ### [Looking to Contract Me? Find me on Upwork!](https://www.upwork.com/freelancers/michaelr78) 
 ***p.s. I'm always looking for work and respond within 24hrs!***
-
 
 Welcome to my GitHub, I'm a full-stack developer with 3+ years of experience, 5+ if we're strictly talking front-end!
 Although I have various stack experience through [freelance](https://www.upwork.com/freelancers/michaelr78),
@@ -50,3 +43,8 @@ Description of Repo 3.
 </p>
 
 Feel free to reach out! 😊
+<div style="display: flex; width: 100%; flex-direction: column; justify-content: center;">
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelr-dev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="michaelr-dev" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelr-dev&show_icons=true&locale=en&theme=onedark" alt="michaelr-dev" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelr-dev&theme=onedark" alt="michaelr-dev" /></p>
+</div>
