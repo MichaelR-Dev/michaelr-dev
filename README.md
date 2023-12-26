@@ -67,7 +67,7 @@ Description of Repo 3.
 
 
 <div style="display: flex; width: 100%; flex-direction: column; justify-content: center; align-items: center;">
-    <p><img align="left" style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelr-dev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="michaelr-dev" /></p>
-    <p>&nbsp;<img align="right" style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=michaelr-dev&show_icons=true&locale=en&theme=onedark" alt="michaelr-dev" /></p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelr-dev&theme=onedark" alt="michaelr-dev" /></p>
+    <p align="center"><img style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelr-dev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="michaelr-dev" /></p>
+    <p align="right"><img style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=michaelr-dev&show_icons=true&locale=en&theme=onedark" alt="michaelr-dev" /></p>
+    <p align="left"><img style="width: 50%" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelr-dev&theme=onedark" alt="michaelr-dev" /></p>
 </div>
