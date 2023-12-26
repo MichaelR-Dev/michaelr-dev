@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hello, I'm Michael R. also known as MichaelR-Dev!</h1>
 
 [Looking to Contract me? Find me on Upwork!](https://www.upwork.com/freelancers/michaelr78)
+
 ***p.s. I'm always looking for work and respond within 24hrs!***
 
 <br>
