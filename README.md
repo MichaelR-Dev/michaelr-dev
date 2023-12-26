@@ -23,7 +23,7 @@ my typical tech stack consists of:</p>
 - [Redux](https://redux.js.org/)
 - [Vercel](https://vercel.com/)
 <br>
-<h4>Feel free to explore my repositories below where you'll find featured projects and quick access links!</h4>
+Explore my repositories below where you'll find featured projects and quick access links!
 <h3 align="center">🌟 Featured Repositories</h3>
 
 ### [Repo 1](link-to-repo-1)
