@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Michael R. also known as MichaelR-Dev!</h1>
 <h3><a href="https://www.upwork.com/freelancers/michaelr78" target="_blank">Looking to Contract me? Find me on Upwork!</a></h3>
-<h4>p.s. I'm always looking for work and respond within 24hrs!</h4>
+p.s. I'm always looking for work and respond within 24hrs!
 <br>
 Welcome to my GitHub, I'm a full-stack developer with 3+ years of experience, 5+ if we're strictly talking front-end!
 Although I have various stack experience through [freelance](https://www.upwork.com/freelancers/michaelr78),
