@@ -3,7 +3,7 @@
     <a href="https://www.linkedin.com/in/michaelr-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.upwork.com/freelancers/michaelr78" target="_blank"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/></a>
 </div>
-<p align="center">Welcome to my GitHub, I'm a full-stack developer with 3+ years of experience, 5+ if we're strictly talking front-end!</p>
+<p align="center" style="color: orange;">Welcome to my GitHub, I'm a full-stack developer with 3+ years of experience, 5+ if we're strictly talking front-end!</p>
 
 <br>
 <div align="center">
