@@ -10,7 +10,7 @@
     <p align="center" italicized>p.s. I'm always looking for work and respond within 24hrs!</p>
 </div>
 <br>
-<h3 align="center">💻My Usual Tech Stack</h3>
+<h3 align="center">💻Fav Tech Stack</h3>
 <br>
 
 <div align="center">
