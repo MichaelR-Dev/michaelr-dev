@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hello, I'm Michael R. also known as MichaelR-Dev!</h1>
 <h3 align="center">A full-stack developer from the USA & Canada!</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelr-dev&label=Profile%20views&color=0e75b6&style=flat" alt="michaelr-dev" /> </p>
 
-### [Looking to Contract Me?](https://www.upwork.com/freelancers/michaelr78) 
+### [Looking to Contract Me? Find me on Upwork!](https://www.upwork.com/freelancers/michaelr78) 
 ***p.s. I'm always looking for work and respond within 24hrs!***
 
 
@@ -20,7 +21,7 @@ my typical tech stack consists of:
 - [Vercel](https://vercel.com/)
 
 <h3 align="center">Feel free to explore my repositories below where you'll find featured projects and quick access links!</h3>
-## 🌟 Featured Repositories
+<h2 align="center">🌟 Featured Repositories</h2>
 
 ### [Repo 1](link-to-repo-1)
 Description of Repo 1.
@@ -43,9 +44,7 @@ Description of Repo 3.
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaelr-dev&show_icons=true&theme=radical)](https://github.com/michaelr-dev)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelr-dev&label=Profile%20views&color=0e75b6&style=flat" alt="michaelr-dev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelr-dev" alt="michaelr-dev" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelr-dev" alt="michaelr-dev" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelr-dev&show_icons=true&locale=en&layout=compact" alt="michaelr-dev" /></p>
 
@@ -53,7 +52,7 @@ Description of Repo 3.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelr-dev&" alt="michaelr-dev" /></p>
 
-## 📫 Let's Connect
+<h2 align="center">📫 Let's Connect</h2>
 <p align="left">
   <a href="https://linkedin.com/in/michaelr-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michaelr-dev" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/michaelr-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="michaelr-dev" height="30" width="40" /></a>
