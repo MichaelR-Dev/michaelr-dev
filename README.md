@@ -1,8 +1,4 @@
 <h1 align="center">👋 Hello, I'm Michael R. also known as MichaelR-Dev!</h1>
-<h3 align="center">A full-stack developer from the USA & Canada!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelr-dev&label=Profile%20views&color=0e75b6&style=flat" alt="michaelr-dev" /> </p>
-
-<h2 align="center">📈 GitHub Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelr-dev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="michaelr-dev" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelr-dev&show_icons=true&locale=en&theme=onedark" alt="michaelr-dev" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelr-dev&theme=onedark" alt="michaelr-dev" /></p>
