@@ -39,11 +39,11 @@ Description of Repo 3.
 <br>
 
 <div align="center">
-    <a href="https://github.com/MichaelR-Dev/portfolio-university">Academic Portfolio</a> <br>
-    <a href="https://github.com/MichaelR-Dev/learns-fullstack">Full Stack Portfolio</a> <br>
-    <a href="https://github.com/MichaelR-Dev/learns-mobile">Mobile Portfolio</a> <br>
-    <a href="https://github.com/MichaelR-Dev/learns-backend">Backend Portfolio</a> <br>
-    <a href="https://github.com/MichaelR-Dev/learns-frontend">Frontend Portfolio</a>
+    <a href="https://github.com/MichaelR-Dev/portfolio-university">Academic Portfolio</a> <br><br>
+    <a href="https://github.com/MichaelR-Dev/learns-fullstack">Full Stack Portfolio</a> <br><br>
+    <a href="https://github.com/MichaelR-Dev/learns-mobile">Mobile Portfolio</a> <br><br>
+    <a href="https://github.com/MichaelR-Dev/learns-backend">Backend Portfolio</a> <br><br>
+    <a href="https://github.com/MichaelR-Dev/learns-frontend">Frontend Portfolio</a> <br><br>
 </div>
 
 
