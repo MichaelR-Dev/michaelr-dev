@@ -27,7 +27,5 @@
 
 <h3 align="center">📊Quick Stats📊</h3>
 <p align="center" style="width: 100%; margin: 0;">
-    <img style="width: 30%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelr-dev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="michaelr-dev" />
-    <img style="width: 30%;" src="https://github-readme-stats.vercel.app/api?username=michaelr-dev&show_icons=true&locale=en&theme=onedark" alt="michaelr-dev" />
     <img style="width: 30%;" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelr-dev&theme=onedark" alt="michaelr-dev"/>
 </p>
